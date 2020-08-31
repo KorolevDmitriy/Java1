@@ -10,8 +10,6 @@ public class Task8 {
         printLeapYear(300);
         printLeapYear(400);
         printLeapYear(700);
-        printLeapYear(2019);
-        printLeapYear(2020);
     }
 
     public static void printLeapYear(int year) {
