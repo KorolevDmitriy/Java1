@@ -1,4 +1,4 @@
-package homework;
+package lesson1.homework;
 
 public class Task4 {
 
@@ -12,7 +12,7 @@ public class Task4 {
 
     private static boolean test(int a, int b) {
         int sum = a + b;
-        return sum >= 10 && sum >= 20;
+        return sum >= 10 && sum <= 20;
         //  if (sum >= 10 && sum <=20) {
         //    return true;
         // } else {
